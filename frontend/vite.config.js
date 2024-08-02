@@ -10,8 +10,5 @@ export default defineConfig({
         target: "http://localhost:5000"
       }
     }
-  },
-  build: {
-    outDir: 'public' // Specify the output directory
-  },
+  }
 })
